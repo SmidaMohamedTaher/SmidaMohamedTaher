@@ -27,22 +27,4 @@ I'm an a Master's student in Artificial Intelligence at Mohamed Khider Universit
 
 ---
 
-## GitHub Stats & Top Languages
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SmidaMohamedTaher&show_icons=true&theme=tokyonight&hide=issues,contribs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SmidaMohamedTaher&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SmidaMohamedTaher&theme=tokyonight" />
-</p>
-
-
----
-
 Thanks for visiting .

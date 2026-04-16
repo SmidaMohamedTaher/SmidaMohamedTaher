@@ -9,7 +9,7 @@ I'm an a Master's student in Artificial Intelligence at Mohamed Khider Universit
 
 - 🔭 Currently: AI Master's student working on applied machine learning projects  
 - 🌱 Learning: advanced deep learning, model interpretability, and MLOps  
-- 🔬 Research interests: deep learning, natural language processing (NLP),LLM.
+- 🔬 Research interests: deep learning, natural language processing (NLP).
 
 ---
 
